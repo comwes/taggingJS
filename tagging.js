@@ -299,7 +299,7 @@
         emptyInput: function() {
             // console.log( 'emptyInput' );
 
-            this.focusInput();
+            // this.focusInput();
 
             return this.valInput( "" );
         },
